@@ -65,3 +65,7 @@ gem 'bootstrap-social-rails'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
+
+# for chart creation
+gem 'countries'
+gem 'faker'
