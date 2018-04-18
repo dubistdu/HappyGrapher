@@ -14,4 +14,6 @@
 //= require turbolinks
 
 //= require 'cable'
+//= require highcharts
+//= require chartkick
 @import 'jquery';@import 'jquery_ujs';

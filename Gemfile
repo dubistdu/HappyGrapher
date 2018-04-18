@@ -69,3 +69,4 @@ gem 'jquery-ui-rails'
 # for chart creation
 gem 'countries'
 gem 'faker'
+gem 'chartkick'
